@@ -19,6 +19,10 @@ First you will have to come up with a rough overview of a design for the website
 
 - Codecademy - Good place for learning Javascript, JSX and start with React.js. Before learning React.js, you must be comfortable with the basics of Javascript and JSX.
 
+- [Javascript Mastery](https://www.youtube.com/@javascriptmastery) - Great guided projects and will get you up and running with React very quick! Highly recommended. They describe a great project structure at the beginning of every video which would help to keep modularity of React.
+
+- [Net Ninja](https://www.youtube.com/@NetNinja) - Great playlists on more technical aspects of React like Form handling, submission handling, etc.
+
 ### UI Component Libraries
 - [Material-UI](https://mui.com/material-ui/getting-started/overview/) - A popular React component library that follows Google's Material Design guidelines. It provides a wide range of pre-built UI components and styles.
 
