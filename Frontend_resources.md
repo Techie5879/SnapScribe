@@ -12,7 +12,7 @@ First you will have to come up with a rough overview of a design for the website
 ### Frontend Frameworks and Libraries
 - [React.js](https://react.dev/learn) - A popular JavaScript library for building user interfaces. It offers a component-based approach and efficient rendering for creating interactive UIs.
 
-[Tailwind CSS](https://tailwindcss.com/docs/installation) - A utility-first CSS framework that allows you to rapidly build custom user interfaces. It provides a set of pre-defined CSS classes to streamline styling.
+- [Tailwind CSS](https://tailwindcss.com/docs/installation) - A utility-first CSS framework that allows you to rapidly build custom user interfaces. It provides a set of pre-defined CSS classes to streamline styling.
 
 ### Tutorials, YouTube Playlists
 - FreeCodeCamp - An online learning platform with interactive tutorials and projects for frontend development. It covers HTML, CSS, JavaScript, and popular frontend frameworks. Look at their website as well as YouTube channel for guided tutorials
