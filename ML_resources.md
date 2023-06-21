@@ -32,3 +32,29 @@ Something that you will often need to do while learning ML topics or implementin
 
 ## Kaggle Project-Specific Resources
 [Flickr8K Image Captioning using CNNs+LSTMs](https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lstms) - This is a Kaggle notebook containing a specific implementation of image captioning. You can use this as a resource material. Your notebook must not be a copy of this. Even if drawing mostly from this, you will need to prove that you have experimented with various stuff and architectures in your notebook.
+
+## Workflow of ML Project
+The following is the general workflow of development of an ML project. It is not specific to this project, it just provides a general overview.  
+**NOTE**: Some steps may/may not be relevant to this project.
+### 1. Notebook Development:
+
+- Data Loading and Exploration: Load the dataset into the notebook and perform initial exploratory data analysis (EDA). This includes understanding the data structure, visualizing distributions, handling missing values, and identifying potential preprocessing steps.
+- Data Preprocessing: Clean the data by addressing missing values, handling outliers, performing feature scaling, and transforming categorical variables.
+- Feature Engineering: Create new features or modify existing ones to improve model performance. This could involve dimensionality reduction techniques, creating interaction terms, or encoding categorical variables.
+- Model Development: Train and evaluate different ML models using appropriate algorithms for the task at hand (e.g., classification, regression, or clustering). Use cross-validation techniques to assess model performance and hyperparameter tuning to optimize model accuracy.
+- Model Evaluation: Assess model performance using suitable evaluation metrics, such as accuracy, precision, recall, F1 score, or mean squared error (MSE). Consider additional techniques like model interpretation and visualization to gain insights into model behavior.
+
+### 2. Converting Notebook to a Python Script:
+- Refactor Code: Organize the code into functions or classes to improve readability and maintainability. Remove any unnecessary or redundant code sections.
+- Modularize Notebook Code: Split the notebook code into logical sections, such as data loading, preprocessing, model training, and evaluation.
+- Define Input and Output: Determine how the Python script will receive input data and generate output results. This may involve defining command-line arguments or utilizing input/output files or directories.
+- Export Dependencies: Identify and list the required dependencies and libraries used in the notebook. Make sure to include these dependencies in the Python script's environment.
+- Create a Python Script: Copy and paste the relevant sections of code from the notebook (ipynb file) into a Python script file (e.g., script.py). Modify the code as necessary to account for changes in variable names, imports, or other specific requirements.
+### 3. Deployment and Productionization:
+- Test the Script: Validate the Python script by running it locally and comparing the results with those obtained in the notebook.
+- Prepare Data: Ensure that the input data for the Python script follows the required format and preprocessing steps.
+- Model Persistence: Save the trained ML model and any required preprocessing steps (e.g., encoders, scalers) to disk.
+- Set up Environment: Install the necessary dependencies and libraries in the deployment environment.
+- Automate Execution: Incorporate the Python script into an automated workflow, such as a batch job or web service, to handle data input, model prediction, and result output. You will have to set up routes in the backend Flask app for serving predictions (here, captions for image)
+- Monitor Performance: Implement mechanisms to monitor the script's performance, detect errors or anomalies, and log relevant information during execution.
+- Iterate and Update: Continuously update and improve the script based on feedback, new data, or model enhancements. Consider version control practices and documentation for reproducibility.
