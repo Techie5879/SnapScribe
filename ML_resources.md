@@ -15,8 +15,6 @@ It also details the expected workflow when developing a real world ML project. P
 
 [PyTorch in 25hrs](https://www.youtube.com/watch?v=V_xro1bcAuA&t=523s&pp=ygUIcHl0b3JjaCA%3D) - Not meant to be finished in a day! Take your time.
 
-
-
 ## Research Papers (Optional) 
 ### [MIT 6.S191 is compulsory before going through this]
 Something that you will often need to do while learning ML topics or implementing things, is reading research papers. So while this part of the project isn't mandatory considering the timeline, take a look at a bit of the following research paper (remember: you don't have to understand everything you read, trust me there will be a lot that you don't understand. Never hesitate to Google topics to try to learn more about them). 
@@ -28,6 +26,9 @@ Something that you will often need to do while learning ML topics or implementin
 [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998) - A research paper by Anderson et al. that proposes an attention mechanism for image captioning, allowing the model to focus on relevant image regions.
 
 ## Blogs and Tutorials
-Machine Learning Mastery - A blog by Jason Brownlee offering a wealth of tutorials, articles, and resources on various machine learning topics.
+[Machine Learning Mastery](https://machinelearningmastery.com/) - A blog by Jason Brownlee offering a wealth of tutorials, articles, and resources on various machine learning topics.
 
-Towards Data Science - An online platform featuring a wide range of data science and machine learning articles, tutorials, and case studies.
+[Towards Data Science](https://towardsdatascience.com/) - An online platform featuring a wide range of data science and machine learning articles, tutorials, and case studies. You'll find many useful ML and data science blogs here along with follow-along tutorials and Github repos where you can get help from.
+
+## Kaggle Project-Specific Resources
+[Flickr8K Image Captioning using CNNs+LSTMs](https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lstms) - This is a Kaggle notebook containing a specific implementation of image captioning. You can use this as a resource material. Your notebook must not be a copy of this. Even if drawing mostly from this, you will need to prove that you have experimented with various stuff and architectures in your notebook.
