@@ -6,8 +6,8 @@ First you will have to come up with a rough overview of a design for the website
 
 ## Some Resources:
 ### Design and UI Inspiration
-- Dribbble - An online community of designers showcasing their work. Explore the platform for UI/UX inspiration, trends, and design ideas.
-- Behance - Discover creative projects and portfolios from designers around the world. Explore different design styles and layouts.
+- [Dribbble](https://dribbble.com/) - An online community of designers showcasing their work. Explore the platform for UI/UX inspiration, trends, and design ideas.
+- [Behance](https://www.behance.net/) - Discover creative projects and portfolios from designers around the world. Explore different design styles and layouts.
 
 ### Frontend Frameworks and Libraries
 - [React.js](https://react.dev/learn) - A popular JavaScript library for building user interfaces. It offers a component-based approach and efficient rendering for creating interactive UIs.
@@ -20,6 +20,6 @@ First you will have to come up with a rough overview of a design for the website
 - Codecademy - Good place for learning Javascript, JSX and start with React.js. Before learning React.js, you must be comfortable with the basics of Javascript and JSX.
 
 ### UI Component Libraries
-- Material-UI - A popular React component library that follows Google's Material Design guidelines. It provides a wide range of pre-built UI components and styles.
+- [Material-UI](https://mui.com/material-ui/getting-started/overview/) - A popular React component library that follows Google's Material Design guidelines. It provides a wide range of pre-built UI components and styles.
 
-- Chakra UI - A simple and customizable UI component library for React. It focuses on accessibility, developer experience, and easy theming.
+- [Chakra UI](https://chakra-ui.com/getting-started) - A simple and customizable UI component library for React. It focuses on accessibility, developer experience, and easy theming.
