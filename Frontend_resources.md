@@ -22,6 +22,8 @@ First you will have to come up with a rough overview of a design for the website
 
 - [Net Ninja](https://www.youtube.com/@NetNinja) - Great playlists on more technical aspects of React like Form handling, submission handling, etc.
 
+- [React Tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The definitive playlist for Form handling and explanation of a lot of parts in bite sized quick videos.
+
 ## UI Component Libraries
 - [Material-UI](https://mui.com/material-ui/getting-started/overview/) - A popular React component library that follows Google's Material Design guidelines. It provides a wide range of pre-built UI components and styles.
 
