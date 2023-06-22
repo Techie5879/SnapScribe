@@ -33,3 +33,8 @@ For sending and fetching requests in React, you'll need the following (basically
 - [Fetch API MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - The MDN Web Docs guide to the Fetch API, a modern browser feature for making asynchronous HTTP requests.
 
 - [Asynchronous JavaScript](https://www.freecodecamp.org/news/asynchronous-javascript) - Lean about Promises, Callbacks, and asynchronous code handling in JavaScript. You will be able to apply this in React after that.
+
+## API Resources
+Learn about APIs, their types. Specifically the REST API design is very useful. Learn that by Googling. You will be building the API with Flask. But getting some theory in your head won't hurt, but don't spend much time on this.
+
+[Postman](https://www.postman.com/) - Good tool for testing API routes with various types of input. You can learn how to use this for API testing by Googling and YouTube.

@@ -13,6 +13,8 @@ First you will have to come up with a rough overview of a design for the website
 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation) - A utility-first CSS framework that allows you to rapidly build custom user interfaces. It provides a set of pre-defined CSS classes to streamline styling.
 
+- [React Router](https://reactrouter.com/en/main) - For creating multi-page web apps in React.
+
 ## Tutorials, YouTube Playlists
 - FreeCodeCamp - An online learning platform with interactive tutorials and projects for frontend development. It covers HTML, CSS, JavaScript, and popular frontend frameworks. Look at their website as well as YouTube channel for guided tutorials
 
@@ -23,6 +25,8 @@ First you will have to come up with a rough overview of a design for the website
 - [Net Ninja](https://www.youtube.com/@NetNinja) - Great playlists on more technical aspects of React like Form handling, submission handling, etc.
 
 - [React Tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The definitive playlist for Form handling and explanation of a lot of parts in bite sized quick videos.
+
+- [React Router Example](https://youtu.be/xMNhDf5-hvk) - Example of how to create a multi page web app if you need it.
 
 ## UI Component Libraries
 - [Material-UI](https://mui.com/material-ui/getting-started/overview/) - A popular React component library that follows Google's Material Design guidelines. It provides a wide range of pre-built UI components and styles.
